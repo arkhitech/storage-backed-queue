@@ -1,5 +1,6 @@
 {
   "name": "storage-backed-queue",
+  "version": "0.0.5",
   "devDependencies": {
     "karma-script-launcher": "~0.1.0",
     "karma-chrome-launcher": "~0.1.2",
